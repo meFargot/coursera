@@ -4,9 +4,15 @@
 	box-sizing: border-box;
 }
 
+body {
+	background-color: #e6e6e6;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
 h1 {
 	text-align: center;
 	margin-bottom: 21px;
+	font-size: 1.75em;
 }
 
 section {
@@ -15,7 +21,8 @@ section {
 	margin-left: 15px;
 	margin-right: 15px;
 	margin-bottom: 30px;
-	padding: 0px 10px 10px 10px;
+	padding: 0px 15px 10px 15px;
+	background-color: #94bfac;
 }
 
 section h2 {
@@ -27,11 +34,20 @@ section h2 {
 	padding: 3px;
 	width: 150px;
 	text-align: center;
+	font-size: 1.25em;
 }
 
-/*#Chicken {
-	background-color: 
-}*/
+#SectionHeader1 {
+	background-color: #ff8000;
+}
+
+#SectionHeader2 {
+	background-color: #8000ff;
+}
+
+#SectionHeader3 {
+	background-color: #80ff00;
+}
 
 section p {
 	margin-top: 40px;
