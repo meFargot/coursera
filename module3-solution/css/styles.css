@@ -1,0 +1,14 @@
+body {
+  padding-top: 50px;
+}
+
+section {
+  padding: 0px 15px;
+  margin-bottom: 50px;
+  border: 1px solid black;
+  background-color: #94bfac;
+}
+
+#nav-list a:hover {
+  background: #E7E7E7;
+}
